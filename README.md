@@ -64,7 +64,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Qasim-Ali&theme=tokyo-night&hide_border=true" width="100%" />
