@@ -67,7 +67,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Qasim-Ali&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Qasim-Ali&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
